@@ -1,0 +1,12 @@
+
+
+
+### Chat with RAG API
+POST http://127.0.0.1:8000/chat
+Content-Type: application/json
+
+{
+  "query": "explane about blochchain?"
+}
+
+### Chat with RAG API
